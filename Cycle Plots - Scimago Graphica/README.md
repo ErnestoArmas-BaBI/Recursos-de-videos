@@ -4,4 +4,8 @@ Por ejemplo, en un Cycle Plot mensual, cada línea podría representar un mes de
 
 # ¿Cómo trabajar con los recursos compartidos?
 
-Lo primero será instalar la aplicación de [Scimago Graphica](https://www.graphica.app/)
+Lo primero será instalar la aplicación de [Scimago Graphica](https://www.graphica.app/) que está disponible para diversos sistemas operativos.
+
+# Enlaces de interés
+
+Si quires saber más a fondo sobre este tema de los Cycle Plots te invito a que consultes las sigueitnes entradas del blog de [Carlos Barbosa]((https://www.linkedin.com/in/merod/))
