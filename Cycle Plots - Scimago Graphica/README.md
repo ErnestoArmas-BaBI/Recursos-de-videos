@@ -5,3 +5,4 @@ Por ejemplo, en un Cycle Plot mensual, cada línea podría representar un mes de
 # ¿Cómo ejecutar el fichero Cycle Plots - Scimago Graphica/Cycle Plots.gph ?
 
 
+[dfh](https://github.com/ErnestoArmas-BaBI/Recursos-de-videos/blob/ee92f0fa9b87d6572a9df981d640f550125730a6/Cycle%20Plots%20-%20Scimago%20Graphica/Cycle%20Plots.gph)
