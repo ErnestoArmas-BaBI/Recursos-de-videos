@@ -12,4 +12,4 @@ Si quieres saber más a fondo sobre este tema de los Cycle Plots te invito a que
 
 Post en Español -> https://graficasdinamicas.com/power-bi/010-grafico-ciclico-con-power-bi/
 
-English Post -> https://spilledgraphics.com/powerbi/010-how-to-make-cycle-plots-with-power-bi/)
+English Post -> https://spilledgraphics.com/powerbi/010-how-to-make-cycle-plots-with-power-bi/
