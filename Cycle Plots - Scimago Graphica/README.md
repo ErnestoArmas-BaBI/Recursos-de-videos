@@ -2,6 +2,6 @@ Los Cycle Plots son gráficos de línea especiales utilizados para analizar las 
 
 Por ejemplo, en un Cycle Plot mensual, cada línea podría representar un mes del año, mostrando cómo varían los datos de enero a diciembre durante varios años. Esto ayuda a visualizar tendencias estacionales y a detectar cualquier desviación inusual que pueda requerir una investigación más profunda
 
-# ¿Cómo ejecutar el fichero ?
+# ¿Cómo ejecutar el fichero Cycle Plots - Scimago Graphica/Cycle Plots.gph ?
 
 
