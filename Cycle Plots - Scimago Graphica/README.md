@@ -8,4 +8,7 @@ Lo primero será instalar la aplicación de [Scimago Graphica](https://www.graph
 
 # Enlaces de interés
 
-Si quires saber más a fondo sobre este tema de los Cycle Plots te invito a que consultes las sigueitnes entradas del blog de [Carlos Barbosa]((https://www.linkedin.com/in/merod/))
+Si quieres saber más a fondo sobre este tema de los Cycle Plots te invito a que consultes las siguientes entradas del blog de [Carlos Barbosa](https://www.linkedin.com/in/merod/)
+
+Post en Español -> 
+English Post -> (https://spilledgraphics.com/powerbi/010-how-to-make-cycle-plots-with-power-bi/)
