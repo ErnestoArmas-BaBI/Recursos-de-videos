@@ -10,5 +10,6 @@ Lo primero será instalar la aplicación de [Scimago Graphica](https://www.graph
 
 Si quieres saber más a fondo sobre este tema de los Cycle Plots te invito a que consultes las siguientes entradas del blog de [Carlos Barbosa](https://www.linkedin.com/in/merod/)
 
-Post en Español -> 
-English Post -> (https://spilledgraphics.com/powerbi/010-how-to-make-cycle-plots-with-power-bi/)
+Post en Español -> https://graficasdinamicas.com/power-bi/010-grafico-ciclico-con-power-bi/
+
+English Post -> https://spilledgraphics.com/powerbi/010-how-to-make-cycle-plots-with-power-bi/)
